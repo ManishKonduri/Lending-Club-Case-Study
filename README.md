@@ -139,27 +139,23 @@ Examples :-
 - Combined Impact above metrics :-
     - Home Ownership vs Loan Purpose - Other vs moving, car, small_business
     - Annual Income vs Loan Purpose - 0k to 20k it is better not to provide loans for the purposes "medical", "renewable_energy", "small_business"
-    
+
 ### Note :- It is better to not to provide loans if the borrower doesn't have data regarding "Annual Income"
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- Python - 3.9.7
+- numpy - 1.20.3
+- pandas - 1.3.4
+- matplotlib - 3.4.3
+- seaborn - 0.11.2
+- calender
+- warnings
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@ManishKonduri] - feel free to contact me!
 
 
 <!-- Optional -->
